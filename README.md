@@ -8,7 +8,8 @@ Created by Colin Laganier, Alexandre Berkovic, Megan Hale and Louis Horrell as p
 
 A model to predict the nightly price of an Airbnb listing in New York City was made using a dataset of Airbnb listings, of Zillow real estate values and Google Places venues of interest. The premise of the model is to recommend a suitable nightly price for a newly listed property on the platform. 
 
-This project was created coraboratively using Google Colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/colin-lag/Airbnb-Big-Data/blob/master/Airbnb_challenge.ipynb]
+This project was created coraboratively using Google Colab. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/colin-lag/Airbnb-Big-Data/blob/master/Airbnb_challenge.ipynb)
 
 ## Libraries
 
