@@ -1,6 +1,6 @@
 # Airbnb Price Prediction
 
-![AirbnMap](./Images/airbnb_map_nyc.jpg)
+![AirbnMap](./Images/airbnb_map_nyc.jpg | width=125)
 
 ## Description
 
