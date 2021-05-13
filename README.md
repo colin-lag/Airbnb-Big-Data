@@ -2,7 +2,7 @@
 
 <img src="./Images/airbnb_map_nyc.jpg" width="500">
 
-## Description
+## Description  
 
 Created by Colin Laganier, Alexandre Berkovic, Megan Hale and Louis Horrell as part of DE2 Big Data Module.
 
